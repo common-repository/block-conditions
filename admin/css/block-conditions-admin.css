@@ -1,0 +1,33 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ div.components-base-control.schedule_block {
+    font-size: 15px;
+    border: 1px solid;
+    padding: 10px;
+    font-style: italic;
+    font-weight: 600;
+    cursor: default;
+}
+mark {
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.scheduled_notice  {
+    background: #007cba !important;
+    box-sizing: border-box !important;
+    border-radius: 3px !important;
+    border: 1px solid rgb(255 255 255);
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.scheduled_notice .css-xmjzce-BodyUI.is-size-small{
+    padding: 8px;
+}
